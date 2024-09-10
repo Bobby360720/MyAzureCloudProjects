@@ -3,7 +3,8 @@
 <h2> Azure Cloud Projects:</h2>
 
 - <b>Identity, Entitlement and Access Management Projects</b>
-  - [Multi-Factor Authentication (MFA) Rollout:]()
+  - [Multi-Factor Authentication (MFA) Rollout]()
+  - [(Conditional Access Policies)]()
 - <b>Secure Networking Projects</b>
   
 - <b>Compute, Storage, and Database Security Projects</b>
