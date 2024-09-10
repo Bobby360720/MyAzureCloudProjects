@@ -3,7 +3,7 @@
 <h2> Azure Cloud Projects:</h2>
 
 - <b>Identity, Entitlement and Access Management Projects</b>
-  - [Multi-Factor Authentication (MFA) Rollout:](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Multi-Factor Authentication (MFA) Rollout:]()
 - <b>Secure Networking Projects</b>
   
 - <b>Compute, Storage, and Database Security Projects</b>
