@@ -3,8 +3,11 @@
 <h2> Azure Cloud Projects:</h2>
 
 - <b>Identity, Entitlement and Access Management Projects</b>
-  - [Multi-Factor Authentication (MFA) Rollout]()
-  - [Conditional Access Policies]()
+  - [Configure Multi-Factor Authentication (MFA) Rollout]()
+  - [Configure Conditional Access Policies]()
+  - [Configure Role-Based Access Control (RBAC)]()
+  - [Configure Privileged Identity Management (PIM)]()
+  - 
 - <b>Secure Networking Projects</b>
   
 - <b>Compute, Storage, and Database Security Projects</b>
