@@ -21,6 +21,8 @@
 <h2> IT Certifications:</h2>
 
 <h2>Resume :</h2>
+<h2> Notes :</h2>
+
 
 
 
