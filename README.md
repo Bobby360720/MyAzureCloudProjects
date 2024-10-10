@@ -12,6 +12,7 @@
     
 - <b>Secure Networking Projects</b>
   - [Plan and Implement User-Defined Routes (UDRs) in Azure](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Plan%20and%20Implement%20User-Defined%20Routes%20(UDRs).md)
+  - [Plan and Implement Network Security Groups (NSGs) and Application Security Groups (ASGs)]
   
 - <b>Compute, Storage, and Database Security Projects</b>
  
