@@ -15,7 +15,7 @@
   - [Plan and Implement Network Security Groups (NSGs) and Application Security Groups (ASGs)](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Plan%20and%20Implement%20User-Defined%20Routes%20(UDRs).md)
   - [Plan and Implement Virtual Network Peering or VPN Gateway](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Plan%20and%20Implement%20Virtual%20Network%20Peering%20or%20VPN%20Gateway.md)
   - [Plan and Implement a Virtual Wide Area Network (WAN) with Secured Virtual Hub](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Plan%20and%20Implement%20a%20Virtual%20Wide%20Area%20Network%20(WAN)%20with%20Secured%20Virtual%20Hub.md)
-  - [Configure firewall settings on PaaS]()
+  - [Configure firewall settings on PaaS](https://github.com/Bobby360720/Bobby360720/blob/main/Configure%20firewall%20settings%20on%20PaaS.md)
   
 - <b>Compute, Storage, and Database Security Projects</b>
  
