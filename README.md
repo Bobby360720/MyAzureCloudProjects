@@ -19,7 +19,6 @@
   - [Plan and Implement Virtual Network Service Endpoints]()
   - [Plan and implement Private Endpoints](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20Private%20Endpoint.md)
   - [Plan and implement Private Link services]()
-  - [Project: Plan and Implement Private Link Services]()
   - [Plan and implement network integration for Azure App Service and Azure Functions]()
   - [Plan and implement network security configurations for an App Service Environment (ASE)]()
   - [Plan and implement network security configurations for an Azure SQL Managed Instance]()
