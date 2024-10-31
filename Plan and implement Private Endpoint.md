@@ -2,7 +2,6 @@
 
 * * *
 
-## **Project: Plan and Implement Private Endpoints**
 
 ### **Objective:**
 
