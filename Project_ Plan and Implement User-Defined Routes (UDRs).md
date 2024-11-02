@@ -77,7 +77,8 @@ Create a route table and associate it with a virtual network subnet.
         *   **Address Prefix**: Define the IP range that this route will apply to.
         *   **Next Hop Type**: Select the appropriate next hop type (e.g., Virtual Appliance).
         *   **Next Hop Address**: If using a Virtual Appliance, specify the IP address of the appliance.
-            *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/4ddc61d8-5bb1-470a-8c85-b8e08fd49583/image.png)
+            *   ![image](https://github.com/user-attachments/assets/62861673-2173-4645-9e6e-955b09c95f93)
+
             *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/bcdb14d7-b623-4594-a63a-670fc5c776d2/image.png)
 
 #### **CLI Example: Create Route Table and Add a Route**:
