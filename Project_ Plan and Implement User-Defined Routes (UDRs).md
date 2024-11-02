@@ -1,6 +1,5 @@
 # Project: Plan and Implement User-Defined Routes (UDRs) in Azure
 
-## **Project: Plan and Implement User-Defined Routes (UDRs) in Azure**
 
 ### **Objective:**
 
