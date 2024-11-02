@@ -109,8 +109,9 @@ Define custom routes using different next hop types to control how traffic is ro
 az network route-table route create --resource-group <resource-group> --route-table-name <route-table-name> --name ApplianceRoute --address-prefix 0.0.0.0/0 --next-hop-type VirtualAppliance --next-hop-ip-address 10.0.2.4
 ```
 
-*  ![](https://t9014131694.p.clickup-attachments.com/t9014131694/976a6dda-8863-486a-bfbc-f0d5afac7f71/image.png)
- *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/f0b3d29b-ee1e-4d6e-914c-fba862146b97/image.png)
+*  ![image.png](https://ata-portal-media-master.s3.amazonaws.com/incident_uploads/md5/92d/d93/8fb1807d1e7e6ed204b60c63d7/ffe58f29-4bca-42bb-ad03-70311099f6f9.png?AWSAccessKeyId=ASIA35EH3Z5YMG4T46J2&Signature=41V2rveGuwMTc157fXBTPfr3t7M%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEEUaCXVzLXdlc3QtMiJHMEUCIQClMRIM1WpDre6NWGiMWpPuTTKAQSuiuHlVJ7IJlLDe%2BwIgNz8HLtafH%2BzZIQ60JxCqBzLgWsyVzguTjuDoUZRJddoq%2FAMIvv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgw4MTg0NzYyMDc5ODQiDMDIMP9PHGgEq6%2Fv3yrQAzh7bJPBKhw%2BMn7z7FSOVrY76CLC4tXPwWAw3K8rW2kJvtIN0LKoENV35zGYuEuG9iWF%2BxiFkNS59L0PXKx22CKPVDsLtRnTVv%2BGRHLCnFhkA8Oy7r%2FbM6h8CR4q%2FH7CDTzIlb5lSPxWcZDiOTO4ylMB7id9Zl9pLlLY6rhvQbiD%2BAwOc62DyqaJY%2FXaheu%2BNB6v4DF2pX0kmk7KK2xw8SQp0ZzhkjF4UUlZ73LAencAr8lE55TWlc78ZFRsfKZ2NGhzQTz8ulJyGpZMpGAKjR41ytCIF3nsjyUQGCWIY%2BiKMWgDSjMdncAJEgmdXaBDtJVutaOqC18yA2q6%2BfcI4Jgim4JZgKOA5ZOvnuQFhP7JFhcq3Z2uhMKs%2FdobDDHtdxUTzbeZByyEZE2wV0eKlO8Nbs7GEhv4w671xZdPf256UtT%2FKZTx%2Bu%2BZhr8Vw3k2XqovPKV9Lm22f0DzdFvHo27kC2fnGaGUQS6A1sF2B8YTbSM1mQMaG%2Ff8fmJ3m5vlcxV7d83WCaOyfX8Tp6B85F6jK0oGI6Uf6v0222albTdGeQwI9UV4mp6opNiHfZdvRV64Ifw3u6L%2BDUZviCFYKAxI%2B6EdKu19078XEk2uwDQDMOjLmLkGOqUBK%2B0q1cI%2FCiDUZX0pXR3klGF69l%2FddFdXdx%2FlzKbhuEi60nbg%2F2EckRt%2B5qmp33EP435QqgNABV3uyvgJbhm9WrRsIMYTCVpjAUKdOnnsVXjW6e%2BFREZibMG3FbMUvTtVcUzIycHI5bzc%2FHmCiyUcdAPEGYqcVshb9add8e19WSHcsRRHPKjZ48UfK7D8d%2BZNujb0sM9uB5CttnZIE3rp4ZPTqArq&Expires=1730567720)
+ *  ![image](https://github.com/user-attachments/assets/3452eafd-a336-4913-a66b-6acd89b3538f)
+
 
   
 
@@ -122,7 +123,8 @@ az network route-table route create --resource-group <resource-group> --route-ta
 az network route-table route create --resource-group <resource-group> --route-table-name <route-table-name> --name VPNRoute --address-prefix 10.1.0.0/16 --next-hop-type VirtualNetworkGateway
 ```
 
-*   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/86347038-a5f5-42b8-9b67-9c83481f994c/image.png)
+*  ![image](https://github.com/user-attachments/assets/9c2b6f80-663b-4ba8-9bd9-8056dab380b4)
+
 1. **Internet**:
     *   Route traffic to the internet.
 2. **CLI Example**:
@@ -141,7 +143,8 @@ az network route-table route create --resource-group <resource-group> --route-ta
 az network route-table route create --resource-group <resource-group> --route-table-name <route-table-name> --name DropRoute --address-prefix 192.168.1.0/24 --next-hop-type None
 ```
 
-*    ![](https://t9014131694.p.clickup-attachments.com/t9014131694/41737fb9-d56a-49d2-8c12-027ce0dac14a/image.png)
+*    
+![image.png](https://ata-portal-media-master.s3.amazonaws.com/incident_uploads/md5/158/db9/eb12fd375d5281614a68e97d7a/f09e786b-bf11-4b34-9120-1af666f5c9ec.png?AWSAccessKeyId=ASIA35EH3Z5YIQ4BEWKO&Signature=vdCKaPsvI8NnRoG9TSz4q0M3rjY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEEUaCXVzLXdlc3QtMiJHMEUCIQCZmvxmbDxEip7DTVyUDQV9FpTZNMmqDlcWtBQhS6inbQIgRMMnVQ0mugSJAf8UeqQ1JpDfRgOoVRIAJUkGszynAkYq%2FAMIvv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgw4MTg0NzYyMDc5ODQiDDsCtqJ93VSwvs7xWyrQAw6%2Bo3wwPhnO4M2bD8%2B1T5uqPH8dVq6BciDh3oGNWsiaxMtRbM3cDVk0roRgeVKI2%2BIkQTieF8Zh0ZLSVoFYVsPlgVMt%2FNZ9Z5k2LpJyPskQAh49FuocYrLBm8sY1PhbfwYipS%2F5yCw5fqATNk983LfYoPgY09LhG61aOL23s22SNzeec3bF%2F9hlvpxnqWxYUNM1MMhOkV5Z5Rka1yMlpAdx5RZ9kI%2FRya30A9Gy9KIF8UzXiAwmbons9de1nHfHcnFxc8V%2Bip93BGwxyZqG3aJpAX0Oe46qZ%2FFRuvDh1jRKSz%2FtXKl4enXdH1p1yllvAZjgy5%2FtTdAl%2B%2BlXNCU0gWfyYn4p%2FpUt9CiQ9PH4TfZoTMxQgiLVsGWh7fxgC4k50yjn7q7nZXL8jiSwaOvuMQko4TkYqJhs%2FyRT8PxAgA%2Flg1gKLgw6UlGTv1zBg1NcJa1PLqzxskxjLblUSRQuIWOUH7hI%2BVdiG3My%2Bv9XPFiCKxx18ByMBePSJpZaD3G4cT7JZH4WBcP8Qv1pt9FdfKj56VqHMnLp%2BqbJ%2BmIG25NzoRbiOHeOJkk210iytQZfGMLOQdn4ZjyRZAL1wuZsCzl3oxcjFwb2S6yiBC4b4bTvMLa%2FmLkGOqUBDfF8a%2BcfR1rt0fx1Ci%2FR%2Bv8xYeXOmhLyg9uD8YfkvjKxBq%2F5guSxXPmV%2BvL9kZA5eG0C2Av07OzO%2FTUJ8fWaI3838XnnrLdxxR33zdKw29MMQovFd6ildl8ybWIkGF2sVFzah2uCXDCxsy%2Fp5YAIgC0%2Bdr5bR%2BVjIAU1QvhvK7aT4T6sVx47YI%2BGHjpIFKCaNULK%2Bl98iclAdM3f%2BkKKpPq6WCWK&Expires=1730568135)
 
 * * *
 
@@ -166,8 +169,7 @@ Simplify route management by using Azure **Service Tags** to represent groups of
 az network route-table route create --resource-group <resource-group> --route-table-name <route-table-name> --name StorageRoute --address-prefix Storage --next-hop-type VirtualAppliance --next-hop-ip-address 10.0.2.4
 ```
 
-*    ![](https://t9014131694.p.clickup-attachments.com/t9014131694/097b1e2b-d5f4-4463-b71b-e8d6c9aecf3b/image.png)
-
+*    ![image.png](https://ata-portal-media-master.s3.amazonaws.com/incident_uploads/md5/d56/887/d76d982c55f81a3fa2c39d7775/a2f9b0e8-b82f-4dea-b1ab-be54967c23d9.png?AWSAccessKeyId=ASIA35EH3Z5YMG4T46J2&Signature=ls9%2BR3XZc50TqwByQwgCyadiw3A%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEEUaCXVzLXdlc3QtMiJHMEUCIQClMRIM1WpDre6NWGiMWpPuTTKAQSuiuHlVJ7IJlLDe%2BwIgNz8HLtafH%2BzZIQ60JxCqBzLgWsyVzguTjuDoUZRJddoq%2FAMIvv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgw4MTg0NzYyMDc5ODQiDMDIMP9PHGgEq6%2Fv3yrQAzh7bJPBKhw%2BMn7z7FSOVrY76CLC4tXPwWAw3K8rW2kJvtIN0LKoENV35zGYuEuG9iWF%2BxiFkNS59L0PXKx22CKPVDsLtRnTVv%2BGRHLCnFhkA8Oy7r%2FbM6h8CR4q%2FH7CDTzIlb5lSPxWcZDiOTO4ylMB7id9Zl9pLlLY6rhvQbiD%2BAwOc62DyqaJY%2FXaheu%2BNB6v4DF2pX0kmk7KK2xw8SQp0ZzhkjF4UUlZ73LAencAr8lE55TWlc78ZFRsfKZ2NGhzQTz8ulJyGpZMpGAKjR41ytCIF3nsjyUQGCWIY%2BiKMWgDSjMdncAJEgmdXaBDtJVutaOqC18yA2q6%2BfcI4Jgim4JZgKOA5ZOvnuQFhP7JFhcq3Z2uhMKs%2FdobDDHtdxUTzbeZByyEZE2wV0eKlO8Nbs7GEhv4w671xZdPf256UtT%2FKZTx%2Bu%2BZhr8Vw3k2XqovPKV9Lm22f0DzdFvHo27kC2fnGaGUQS6A1sF2B8YTbSM1mQMaG%2Ff8fmJ3m5vlcxV7d83WCaOyfX8Tp6B85F6jK0oGI6Uf6v0222albTdGeQwI9UV4mp6opNiHfZdvRV64Ifw3u6L%2BDUZviCFYKAxI%2B6EdKu19078XEk2uwDQDMOjLmLkGOqUBK%2B0q1cI%2FCiDUZX0pXR3klGF69l%2FddFdXdx%2FlzKbhuEi60nbg%2F2EckRt%2B5qmp33EP435QqgNABV3uyvgJbhm9WrRsIMYTCVpjAUKdOnnsVXjW6e%2BFREZibMG3FbMUvTtVcUzIycHI5bzc%2FHmCiyUcdAPEGYqcVshb9add8e19WSHcsRRHPKjZ48UfK7D8d%2BZNujb0sM9uB5CttnZIE3rp4ZPTqArq&Expires=1730568271)
 * * *
 
 ### **6\. Best Practices for User-Defined Routes (UDRs)**
