@@ -11,11 +11,11 @@
   - [Manage Microsoft Entra Application Access Part 2](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Manage%20Microsoft%20Entra%20Application%20Access%20Part%202.md)
     
 - <b>Secure Networking Projects</b>
-  - [Plan and Implement User-Defined Routes (UDRs) in Azure](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Plan%20and%20Implement%20User-Defined%20Routes%20(UDRs).md)
-  - [Plan and Implement Network Security Groups (NSGs) and Application Security Groups (ASGs)](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Plan%20and%20Implement%20User-Defined%20Routes%20(UDRs).md)
+  - [Plan and Implement User-Defined Routes (UDRs) in Azure](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Plan%20and%20Implement%20User-Defined%20Routes%20(UDRs)%20New.md)
+  - [Plan and Implement Network Security Groups (NSGs) and Application Security Groups (ASGs)](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Plan%20and%20Implement%20Network%20Security%20Groups%20(NSGs)%20and%20Application%20Security%20Groups%20(ASGs)New.md)
   - [Plan and Implement Virtual Network Peering or VPN Gateway](https://github.com/Bobby360720/Bobby360720/blob/main/Project_%20Plan%20and%20Implement%20Virtual%20Network%20Peering%20or%20VPN%20Gateway.md)
   - [Configure firewall settings on PaaS](https://github.com/Bobby360720/Bobby360720/blob/main/Configure%20firewall%20settings%20on%20PaaS.md)
-  - [Plan and Implement Virtual Network Service Endpoints]()
+  - [Plan and Implement Virtual Network Service Endpoints](https://github.com/Bobby360720/Bobby360720/edit/main/Project_%20Plan%20and%20Implement%20Virtual%20Network%20Service%20Endpoints%20new.md)
   - [Plan and implement Private Endpoints](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20Private%20Endpoint.md)
   - [Plan and implement Private Link services]()
   - [Plan and implement network integration for Azure App Service and Azure Functions]()
