@@ -44,7 +44,7 @@ protocol Tcp --access Allow --direction Inbound
 
   
 
-*       *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/364e4f5c-f08d-457f-b283-eca0994e517d/image.png)
+   * ![](https://t9014131694.p.clickup-attachments.com/t9014131694/364e4f5c-f08d-457f-b283-eca0994e517d/image.png)
     *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/9a2f7a32-4d1b-4bcc-b051-2efc523f2152/image.png)
     *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/7db52148-baef-444e-bd2c-3c3fc2f81ad6/image.png)
 
@@ -106,11 +106,8 @@ az network asg create --resource-group <resource-group> --name AsgWeb
 az network nsg rule create --nsg-name <nsg-name> --resource-group <resource-group> --name AllowHTTP --priority 100 --source-address-prefixes '*' --destination-asg AsgWeb --destination-port-ranges 80 --protocol Tcp --access Allow --direction Inbound
 ```
 
-*       *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/727e26b9-2653-44e3-8279-35128a6c55d6/image.png)
-
-  
-
-*       *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/cecb895c-43ed-4c92-bcb3-d1bedc1d9448/image.png)
+*  ![](https://t9014131694.p.clickup-attachments.com/t9014131694/727e26b9-2653-44e3-8279-35128a6c55d6/image.png)
+*   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/cecb895c-43ed-4c92-bcb3-d1bedc1d9448/image.png)
     *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/d99849ea-f1cf-40a3-807d-9c840fa57f78/image.png)
 
 * * *
@@ -191,7 +188,7 @@ az network nsg rule create --resource-group <your-resource-group> --nsg-name NSG
 Note: Replace <your-resource-group>, <your-vnet-name>, <your-subnet-name>, <NSG-Web-ID>, <NSG-App-ID>, <NSG-DB-ID>, <web-tier-ASG-name>, <app-tier-port>, and <allowed-ip-ranges> with your actual values. Adjust the priority and port ranges based on your specific requirements.
 ```
 
-*       *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/0ffc93eb-a3a8-445c-b00a-ec426a565b09/image.png)
+*  ![](https://t9014131694.p.clickup-attachments.com/t9014131694/0ffc93eb-a3a8-445c-b00a-ec426a565b09/image.png)
     *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/d7bef356-afa2-46c8-bf38-54752cc428c9/image.png)![](https://t9014131694.p.clickup-attachments.com/t9014131694/9bd092eb-3de9-4884-a896-954074635e62/image.png)![](https://t9014131694.p.clickup-attachments.com/t9014131694/90d13cac-a932-490a-ba2c-d64270272bb7/image.png)
     *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/9b6a14c9-bb22-4d1e-8845-09e482be6bdf/image.png)
     *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/b725060a-8da4-4795-8288-231fbc4d6192/image.png)
