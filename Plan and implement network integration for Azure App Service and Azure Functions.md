@@ -223,7 +223,7 @@ az network vnet subnet update `
 
 1. **Using the Azure Portal:**
 *   **Application Insights:** If your App Service has Application Insights enabled, you can analyze logs to identify any network issues or errors.
-2. ![](https://t9014131694.p.clickup-attachments.com/t9014131694/b7e95776-7228-44a4-a04b-6afddb0b0aa8/image.png)
+ ![](https://t9014131694.p.clickup-attachments.com/t9014131694/b7e95776-7228-44a4-a04b-6afddb0b0aa8/image.png)
 
 #### Step 7: Monitor and Troubleshoot
 
