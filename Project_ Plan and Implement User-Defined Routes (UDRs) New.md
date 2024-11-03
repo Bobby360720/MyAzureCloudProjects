@@ -65,11 +65,11 @@ Create a route table and associate it with a virtual network subnet.
     *   Navigate to **Azure Portal** > **Create a Resource** > **Route Table**.
     *   Provide a name, resource group, and region for the route table.
     *   Click **Create**.
-        *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/729f4474-56bc-4853-b664-2b96ad51db41/image.png)
+        *  ![](https://t9014131694.p.clickup-attachments.com/t9014131694/729f4474-56bc-4853-b664-2b96ad51db41/image.png)
 2. **Associate the Route Table with a Subnet**:
     *   After the route table is created, go to **Subnets** in the route table settings.
     *   Select the subnet you want to associate with the route table and click **Save**.
-        *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/9b4791e2-5152-4e6b-ad90-6615bb0b5b0e/image.png)
+        * ![](https://t9014131694.p.clickup-attachments.com/t9014131694/9b4791e2-5152-4e6b-ad90-6615bb0b5b0e/image.png)
 3. **Add Routes to the Route Table**:
     *   In the route table settings, go to **Routes**.
     *   Click **Add** to create a new route.
@@ -78,8 +78,8 @@ Create a route table and associate it with a virtual network subnet.
         *   **Address Prefix**: Define the IP range that this route will apply to.
         *   **Next Hop Type**: Select the appropriate next hop type (e.g., Virtual Appliance).
         *   **Next Hop Address**: If using a Virtual Appliance, specify the IP address of the appliance.
-            *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/12cce115-5f1f-49ca-8353-52c57afa6c36/image.png)
-            *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/aa04de16-5c17-435a-9177-7d15e821a5d2/image.png)
+            * ![](https://t9014131694.p.clickup-attachments.com/t9014131694/12cce115-5f1f-49ca-8353-52c57afa6c36/image.png)
+            * ![](https://t9014131694.p.clickup-attachments.com/t9014131694/aa04de16-5c17-435a-9177-7d15e821a5d2/image.png)
 
 #### **CLI Example: Create Route Table and Add a Route**:
 
@@ -109,7 +109,7 @@ Define custom routes using different next hop types to control how traffic is ro
 az network route-table route create --resource-group <resource-group> --route-table-name <route-table-name> --name ApplianceRoute --address-prefix 0.0.0.0/0 --next-hop-type VirtualAppliance --next-hop-ip-address 10.0.2.4
 ```
 
-*       *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/99e038e9-5819-41c8-9340-83938c87508c/image.png)
+*    ![](https://t9014131694.p.clickup-attachments.com/t9014131694/99e038e9-5819-41c8-9340-83938c87508c/image.png)
     *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/d0a5c538-8501-4e2c-b3c1-94cab7189b14/image.png)
 
   
@@ -122,7 +122,7 @@ az network route-table route create --resource-group <resource-group> --route-ta
 az network route-table route create --resource-group <resource-group> --route-table-name <route-table-name> --name VPNRoute --address-prefix 10.1.0.0/16 --next-hop-type VirtualNetworkGateway
 ```
 
-*       *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/83b8b12c-4c6b-4340-b622-c5b4fc36c95c/image.png)
+*   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/83b8b12c-4c6b-4340-b622-c5b4fc36c95c/image.png)
 1. **Internet**:
     *   Route traffic to the internet.
 2. **CLI Example**:
@@ -132,7 +132,7 @@ az network route-table route create --resource-group <resource-group> --route-ta
   
 ```
 
-*       *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/2c83137b-ed72-4c32-8433-f140e00b62b2/image.png)
+*   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/2c83137b-ed72-4c32-8433-f140e00b62b2/image.png)
 1. **None**:
     *   Drop traffic by specifying **None** as the next hop.
 2. **CLI Example**:
@@ -141,7 +141,7 @@ az network route-table route create --resource-group <resource-group> --route-ta
 az network route-table route create --resource-group <resource-group> --route-table-name <route-table-name> --name DropRoute --address-prefix 192.168.1.0/24 --next-hop-type None
 ```
 
-*       *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/90ead20f-c38d-4aa5-ac4c-53e6e0d2e64c/image.png)
+*  ![](https://t9014131694.p.clickup-attachments.com/t9014131694/90ead20f-c38d-4aa5-ac4c-53e6e0d2e64c/image.png)
 
 * * *
 
@@ -166,7 +166,7 @@ Simplify route management by using Azure **Service Tags** to represent groups of
 az network route-table route create --resource-group <resource-group> --route-table-name <route-table-name> --name StorageRoute --address-prefix Storage --next-hop-type VirtualAppliance --next-hop-ip-address 10.0.2.4
 ```
 
-*       *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/0b64b2a1-300b-4e3d-916a-1cbf8ea5dc92/image.png)
+* ![](https://t9014131694.p.clickup-attachments.com/t9014131694/0b64b2a1-300b-4e3d-916a-1cbf8ea5dc92/image.png)
 
 * * *
 
