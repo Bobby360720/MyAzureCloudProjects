@@ -17,10 +17,9 @@
   - [Configure firewall settings on PaaS](https://github.com/Bobby360720/Bobby360720/blob/main/Configure%20firewall%20settings%20on%20PaaS.md)
   - [Plan and Implement Virtual Network Service Endpoints](https://github.com/Bobby360720/Bobby360720/edit/main/Project_%20Plan%20and%20Implement%20Virtual%20Network%20Service%20Endpoints%20new.md)
   - [Plan and implement Private Endpoints](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20Private%20Endpoint.md)
-  - [Plan and implement Private Link services]()
   - [Plan and implement network integration for Azure App Service and Azure Functions](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20network%20integration%20for%20Azure%20App%20Service%20and%20Azure%20Functions.md)
   - [Plan and implement network security configurations for an App Service Environment (ASE)](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20network%20security%20configurations%20for%20an%20App%20Service%20Environment%20(ASE).md)
-  - [Plan and implement network security configurations for an Azure SQL Managed Instance]()
+  - [Project Name: Implementing and Managing Azure Firewall and Firewall Manager Policies]()
   
 - <b>Compute, Storage, and Database Security Projects</b>
  
