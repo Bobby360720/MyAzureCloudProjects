@@ -207,4 +207,3 @@ az monitor log-analytics workspace create --resource-group MyResourceGroup --wor
 *   **Improved Traffic Management**: Offers comprehensive filtering for V2I, B2I, and other scenarios.
 *   **DDoS and WAF Protection**: Adds layers of security for web and network traffic.
 
-This comprehensive guide ensures that your organization can implement and manage Azure Firewall and related services effectively using Azure CLI and the Portal.
