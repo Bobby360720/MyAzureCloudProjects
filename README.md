@@ -21,7 +21,7 @@
   - [Plan and implement network security configurations for an App Service Environment (ASE)](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20network%20security%20configurations%20for%20an%20App%20Service%20Environment%20(ASE).md)
   - [Project Name: Implementing and Managing Azure Firewall and Firewall Manager Policies](https://github.com/Bobby360720/Bobby360720/blob/main/Project%20Name_%20Implementing%20and%20Managing%20Azure%20Firewall%20and%20Firewall%20Manager%20Policies.md)
   - [Project Plan: Implementing an Azure Application Gateway](https://github.com/Bobby360720/Bobby360720/blob/main/Project%20Plan_%20Implementing%20an%20Azure%20Application%20Gateway.md)
-  - [Plan and implement an Azure Front Door, including Content Delivery Network (CDN)]
+  - [Plan and implement an Azure Front Door, including Content Delivery Network (CDN)](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20an%20Azure%20Front%20Door%2C%20including%20Content%20Delivery%20Network%20(CDN).md)
   
 - <b>Compute, Storage, and Database Security Projects</b>
  
