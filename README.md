@@ -22,7 +22,7 @@
   - [Project Name: Implementing and Managing Azure Firewall and Firewall Manager Policies](https://github.com/Bobby360720/Bobby360720/blob/main/Project%20Name_%20Implementing%20and%20Managing%20Azure%20Firewall%20and%20Firewall%20Manager%20Policies.md)
   - [Project Plan: Implementing an Azure Application Gateway](https://github.com/Bobby360720/Bobby360720/blob/main/Project%20Plan_%20Implementing%20an%20Azure%20Application%20Gateway.md)
   - [Plan and implement an Azure Front Door, including Content Delivery Network (CDN)](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20an%20Azure%20Front%20Door%2C%20including%20Content%20Delivery%20Network%20(CDN).md)
-  - [Plan and implement remote access to public endpoints, Azure Bastion and just-in-time (JIT) virtual machine (VM) access]()
+  - [Plan and implement remote access to public endpoints, Azure Bastion and just-in-time (JIT) virtual machine (VM) access](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20remote%20access%20to%20public%20endpoints%2C%20Azure%20Bastion%20and%20just-in-time%20(JIT)%20virtual%20machine%20(VM)%20access.md)
   
 - <b>Compute, Storage, and Database Security Projects</b>
  
