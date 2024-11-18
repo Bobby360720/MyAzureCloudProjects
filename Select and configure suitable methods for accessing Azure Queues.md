@@ -52,8 +52,7 @@
 **Architecture Diagram**:
 
 ```gherkin
-sql
-Copy code
+
 +-------------------------+      +------------------------+| Azure Queue Service     |      | Microsoft Entra ID     || (Queue Storage)         |  <-->| (Token Authentication) |+-------------------------+      +------------------------+^|+-------------------------+      +------------------------+| Managed Identity        |      | Azure Key Vault        || (Azure Resource Access) |  <-->| (Secret Management)    |+-------------------------+      +------------------------+
 ```
 
@@ -92,8 +91,7 @@ az role assignment create --role "Storage Queue Data Reader" --assignee <user-or
 **Azure CLI**:
 
 ```plain
-bash
-Copy code
+
 az storage account create --name mystorageaccount1111
  --resource-group MyResourceGroup --location eastus --sku Standard_LRS --kind StorageV2
 ```
@@ -135,8 +133,7 @@ az role assignment create --role "Storage Queue Data Contributor" --assignee <us
 1. **Log in**:
 
 ```plain
-bash
-Copy code
+
 az login
 ```
 
