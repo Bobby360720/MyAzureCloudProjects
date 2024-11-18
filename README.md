@@ -29,7 +29,7 @@
    - [Plan and implement remote access to public endpoints, Azure Bastion and just-in-time (JIT) virtual machine (VM) access](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20remote%20access%20to%20public%20endpoints%2C%20Azure%20Bastion%20and%20just-in-time%20(JIT)%20virtual%20machine%20(VM)%20access.md)
    - [Project: Azure Storage Deployment and Management](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/Project_%20Azure%20Storage%20Deployment%20and%20Management.md)
    - [Project: Configuring Access Control for Azure Storage](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/Project_%20Configuring%20Access%20Control%20for%20Azure%20Storage.md)
-   - [Select and configure an appropriate method for access to Azure Files]()
+   - [Select and configure an appropriate method for access to Azure Files](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/Select%20and%20configure%20an%20appropriate%20method%20for%20access%20to%20Azure%20Files.md)
 - <b>Security Operations and Governance Projects</b>
 
 - <b>Cloud Governance and Risk Management Projects</b>
