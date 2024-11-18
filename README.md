@@ -1,3 +1,4 @@
+
 <h1>Hi, I'm John! , <a href="https://www.linkedin.com/in/johnhilton1/">Cybersecurity Professional</a>
 
 <h2> Azure Cloud Projects:</h2>
@@ -27,6 +28,7 @@
 - <b>Compute, Storage, and Database Security Projects</b>
    - [Plan and implement remote access to public endpoints, Azure Bastion and just-in-time (JIT) virtual machine (VM) access](https://github.com/Bobby360720/Bobby360720/blob/main/Plan%20and%20implement%20remote%20access%20to%20public%20endpoints%2C%20Azure%20Bastion%20and%20just-in-time%20(JIT)%20virtual%20machine%20(VM)%20access.md)
    - [Project: Azure Storage Deployment and Management](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/Project_%20Azure%20Storage%20Deployment%20and%20Management.md)
+   - [Project: Configuring Access Control for Azure Storage]()
 - <b>Security Operations and Governance Projects</b>
 
 - <b>Cloud Governance and Risk Management Projects</b>
