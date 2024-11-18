@@ -30,6 +30,7 @@
    - [Project: Azure Storage Deployment and Management](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/Project_%20Azure%20Storage%20Deployment%20and%20Management.md)
    - [Project: Configuring Access Control for Azure Storage](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/Project_%20Configuring%20Access%20Control%20for%20Azure%20Storage.md)
    - [Select and configure an appropriate method for access to Azure Files](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/Select%20and%20configure%20an%20appropriate%20method%20for%20access%20to%20Azure%20Files.md)
+   - [Select and configure an appropriate method for access to Azure Queues]()
 - <b>Security Operations and Governance Projects</b>
 
 - <b>Cloud Governance and Risk Management Projects</b>
