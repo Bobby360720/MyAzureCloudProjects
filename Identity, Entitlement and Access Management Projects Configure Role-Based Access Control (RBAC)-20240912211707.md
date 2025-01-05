@@ -58,7 +58,8 @@ Screenshots/Diagrams:
         *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/e611dcac-efdc-4045-a39c-7ee6b4752165/image.png)
     *   Assign **Test User 3** the **Reader** role at the subscription level scope
         *   az role assignment create --assignee <principal-id-or-email> --role <role-name> --scope <scope>
-        *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/e45aec41-7c57-43fb-822a-e1890d7ea1eb/image.png)
+        *   ![image](https://github.com/user-attachments/assets/56e04e15-bc23-4d38-86e6-e30d60332085)
+
     *   Use the `az role assignment list` command to display the user's permissions:
         *   az role assignment list --assignee [user@domain.com](mailto:user@domain.com)
         *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/e0e981a8-f474-4ad6-83d9-42e1d9714642/image.png)
