@@ -62,4 +62,4 @@ Screenshots/Diagrams:
 
     *   Use the `az role assignment list` command to display the user's permissions:
         *   az role assignment list --assignee [user@domain.com](mailto:user@domain.com)
-        *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/e0e981a8-f474-4ad6-83d9-42e1d9714642/image.png)
+        *  ![image](https://github.com/user-attachments/assets/1e70e54d-7642-4acb-8278-8a36b516b2f4)
