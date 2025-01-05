@@ -37,6 +37,9 @@
 - <b>Compliance and Audit Management Projects</b>
 - <b>Incident Response and Threat Management Projects</b>
 
+- <b>Terraform on Azure Projects</b>
+
+
 <h2> IT Certifications:</h2>
 
 CompTIA
