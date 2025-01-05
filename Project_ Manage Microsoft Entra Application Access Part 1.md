@@ -203,7 +203,8 @@ az login --service-principal --username <clientId> --password <clientSecret> --t
 *   Replace `<clientId>` with the **Application (client) ID**.
 *   Replace `<clientSecret>` with the **Client Secret** generated earlier.
 *   Replace `<tenantId>` with the **Directory (tenant) ID**.
-    *   ![](https://t9014131694.p.clickup-attachments.com/t9014131694/ad262f7e-0c8b-49b9-8515-8467537f1d3a/image.png)
+    *  ![image](https://github.com/user-attachments/assets/bfe382f9-e5fb-4ced-9cbd-764f95578a35)
+
 
 #### **Authenticate Using Certificate**
 
