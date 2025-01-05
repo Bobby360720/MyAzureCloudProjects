@@ -38,7 +38,7 @@
 - <b>Incident Response and Threat Management Projects</b>
 
 - <b>Terraform on Azure Projects</b>
-   -  [Creating an Azure Virtual Network]()
+   -  [Creating an Azure Virtual Network](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/main1.tf.txt)
 
 <h2> IT Certifications:</h2>
 
@@ -65,6 +65,8 @@ Microsoft
    -  MTA: Security Fundamentals - Certified 2019
    -  MTA: Networking Fundamentals - Certified 2019
    -  Microsoft Certified: Security Operations Analyst Associate
+   -  Microsoft Certified: Azure Security Engineer Associate
+
 <h2>Resume :</h2>
 <h2> Notes :</h2>
 
