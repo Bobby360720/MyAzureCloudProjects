@@ -38,7 +38,7 @@
 - <b>Incident Response and Threat Management Projects</b>
 
 - <b>Terraform on Azure Projects</b>
-
+   -  [Creating an Azure Virtual Network]()
 
 <h2> IT Certifications:</h2>
 
