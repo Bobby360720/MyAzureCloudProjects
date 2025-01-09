@@ -39,6 +39,7 @@
 
 - <b>Terraform on Azure Projects</b>
    -  [Creating an Azure Virtual Network](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/main1.tf.txt)
+   -  [VNET,SUBNETS,NSGs and Rules,VMs and Network Interface]()
 
 <h2> IT Certifications:</h2>
 
