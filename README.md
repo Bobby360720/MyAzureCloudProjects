@@ -69,7 +69,7 @@ Microsoft
    -  Microsoft Certified: Azure Security Engineer Associate
 
 <h2>Resume :</h2> 
-- [John Hilton Resume](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/John%20Hilton%20R%202025.pdf)
+
 <h2> Notes :</h2>
 
 
