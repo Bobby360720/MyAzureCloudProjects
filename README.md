@@ -68,8 +68,8 @@ Microsoft
    -  Microsoft Certified: Security Operations Analyst Associate
    -  Microsoft Certified: Azure Security Engineer Associate
 
-<h2>Resume :</h2>
- - [John Hilton Resume](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/John%20Hilton%20R%202025.pdf)
+<h2>Resume :</h2> 
+- [John Hilton Resume](https://github.com/Bobby360720/MyAzureCloudProjects/blob/main/John%20Hilton%20R%202025.pdf)
 <h2> Notes :</h2>
 
 
@@ -78,7 +78,6 @@ Microsoft
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="johnhilton1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/johnhilton1/
 
